@@ -1,4 +1,13 @@
 h1{
-    color: blue;
+    color:black;
     font-size: 10px;
+}
+.garage p{
+    color:aqua;
+}
+.garage2 p{
+    color:red;
+}
+.garage3 p{
+    color:bisque;
 }
